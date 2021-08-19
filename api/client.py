@@ -1,5 +1,4 @@
 import requests
-import csv
 import json
 
 class Seeker:
